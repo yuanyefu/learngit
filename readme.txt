@@ -10,3 +10,4 @@ update stash
 text   stash 2222222
 121212
 21212
+new push yyf
